@@ -22,9 +22,9 @@ The goal of this project is to **simplify and accelerate the process of finding 
 
 ### 🔐 Login & Home
 
-| Login Screen                           | Home / Profile                          |
+| Login Screen                           | Home Screen                             |
 | -------------------------------------- | --------------------------------------- |
-| ![Login Screen](screenshots/login.jpg) | ![Home Screen](screenshots/profile.jpg) |
+| ![Login Screen](screenshots/login.jpg) | ![Home Screen](screenshots/home.jpg) |
 
 ---
 
